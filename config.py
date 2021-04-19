@@ -1,0 +1,1 @@
+word2vec_model_path = "/home/swapnil/data_folder/Projects/Embeddings/word2vec/GoogleNews-vectors-negative300.bin.gz"

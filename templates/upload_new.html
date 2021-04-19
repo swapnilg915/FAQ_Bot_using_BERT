@@ -1,0 +1,100 @@
+<!-- <html>
+   <body>
+      <form action = "http://localhost:5001/upload" method = "POST" 
+         enctype = "multipart/form-data">
+         <input type = "file" name = "file" />
+         <input type = "submit"/>
+      </form>
+   </body>
+</html> -->
+
+
+<!-- <!doctype html> -->
+<!-- <title>Python Flask File Upload Example</title>
+<h2>Select a file to upload</h2>
+<p>
+	{% with messages = get_flashed_messages() %}
+	  {% if messages %}
+		<ul class=flashes>
+		{% for message in messages %}
+		  <li>{{ message }}</li>
+		{% endfor %}
+		</ul>
+	  {% endif %}
+	{% endwith %}
+</p> -->
+
+<!-- <form method="post" action="http://localhost:5001/upload" enctype="multipart/form-data">
+    <dl>
+		<p>
+			<input type="file" name="file" autocomplete="off" required>
+		</p>
+    </dl>
+    <p>
+		<input type="submit" value="Submit">
+	</p>
+</form> -->
+
+
+<html>
+<head>
+	<title>Home</title>
+	<!-- <link rel="stylesheet" type="text/css" href="../static/css/styles.css"> -->
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+
+	<header>
+		<div class="container">
+		<!-- <div id="brandname">
+			Machine Learning App with Flask
+		</div> -->
+		<h2>Training inputs</h2>
+		
+	</div>
+	</header>
+
+	<div class="ml-container">
+
+	<!-- <form  method="POST" action="http://104.46.38.87:5002/upload" enctype="multipart/form-data"> -->
+		<form  method="POST" action="http://0.0.0.0:5000/upload" enctype="multipart/form-data">
+		
+		<!-- <p>File Type: document / synonyms </p> -->
+		<!-- <input type="text" name="comment"/> -->
+		<!-- <textarea name="file_type" rows="1" cols="50"></textarea> -->
+		<!-- <br/> -->
+
+		<form action="{{ url_for('main')}}" method="POST">
+		<p>Language: en / nb</p>
+		<!-- <input type="text" name="comment"/> -->
+		<textarea name="lang" rows="1" cols="50"></textarea>
+		<br/>
+
+		<!-- <form action="{{ url_for('main')}}" method="POST"> -->
+		<!-- <p>Model Type: pdf / excel</p> -->
+		<!-- <input type="text" name="comment"/> -->
+		<!-- <textarea name="model_type" rows="1" cols="50"></textarea> -->
+		<!-- <br/> -->
+
+		<form action="{{ url_for('main')}}" method="POST">
+		<p>Model Name</p>
+		<!-- <input type="text" name="comment"/> -->
+		<textarea name="model_name" rows="1" cols="50"></textarea>
+		<br/>
+
+		<tr>
+			<input type="file" name="file" autocomplete="off" required>
+		</tr>
+
+		<br/>
+		<div class="jumbotron">
+		<input type="submit" class="btn-info" value="Train">
+		</div>
+		
+	</form>
+		
+	</div>
+
+</body>
+</html>
+

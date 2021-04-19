@@ -1,0 +1,19 @@
+[
+    {
+        "table_content": "<table border=\"0\" class=\"dataframe table table-bordered\"> <tbody> <tr> <td>Policy</td> <td>&lt;b&gt;Employee Code  &lt;/b&gt;\\nof Conduct Policy</td> <td>Approved by:</td> <td>Nitin Pednekar &amp; Vasim Shaikh</td> </tr> <tr> <td>Version</td> <td>1.0</td> <td>Date Released</td> <td>September 23, 2019</td> </tr> <tr> <td>Owner</td> <td>HR</td> <td>Status</td> <td>Approved</td> </tr> </tbody> </table>",
+        "row": [
+            "Version",
+            "Owner"
+        ],
+        "insert_id": 0,
+        "doc_name": "2019-11-09_19:58:34.html",
+        "table_id": 3,
+        "col": [
+            "Employee Code  \\nof Conduct Policy",
+            "Approved by:",
+            "Nitin Pednekar & Vasim Shaikh"
+        ],
+        "parent": "",
+        "page_no": 1
+    }
+]

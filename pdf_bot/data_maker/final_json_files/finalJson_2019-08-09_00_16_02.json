@@ -1,0 +1,343 @@
+[
+  {
+    "childs": [
+      2
+    ],
+    "parent": [],
+    "doc_name": "2019-08-09_00:16:02.html",
+    "all_childs": [
+      {
+        "parent": [
+          1
+        ],
+        "tag_name": "p",
+        "my_id": 2,
+        "all_childs": [],
+        "childs": [],
+        "table_id": "",
+        "doc_name": "2019-08-09_00:16:02.html",
+        "text": "Data Scientist"
+      }
+    ],
+    "tag_name": "b",
+    "table_id": "",
+    "my_id": 1,
+    "text": "Edward Tiong"
+  },
+  {
+    "childs": [
+      4
+    ],
+    "parent": [],
+    "doc_name": "2019-08-09_00:16:02.html",
+    "all_childs": [
+      {
+        "parent": [
+          3
+        ],
+        "tag_name": "p",
+        "my_id": 4,
+        "all_childs": [],
+        "childs": [],
+        "table_id": "",
+        "doc_name": "2019-08-09_00:16:02.html",
+        "text": "I\u2019m a data scientist who transforms data into insights, opportunities into value, and ideas into reality. Engineering, design, and business drive my innovations."
+      }
+    ],
+    "tag_name": "b",
+    "table_id": "",
+    "my_id": 3,
+    "text": "talentenvoy.edward@gmail.com"
+  },
+  {
+    "childs": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "parent": [],
+    "doc_name": "2019-08-09_00:16:02.html",
+    "all_childs": [
+      {
+        "parent": [
+          5
+        ],
+        "tag_name": "p",
+        "my_id": 6,
+        "all_childs": [],
+        "childs": [],
+        "table_id": "",
+        "doc_name": "2019-08-09_00:16:02.html",
+        "text": "Beam Solutions Inc, San Francisco, CA \u2014 Data Scientist 2018 - PRESENT (Industry Project) \u25cf Detected fraudulent crypto transac(cid:415)ons for banks and FinTechs \u25cf Performed EDA on Neo4j database of Bitcoin blockchain (150GB) \u25cf Implemented semi-supervised clustering algorithm \u25cf Scaled model to 300MM transac(cid:415)ons using PySpark and RDD"
+      },
+      {
+        "parent": [
+          5
+        ],
+        "tag_name": "p",
+        "my_id": 7,
+        "all_childs": [],
+        "childs": [],
+        "table_id": "",
+        "doc_name": "2019-08-09_00:16:02.html",
+        "text": "OpenAI and Data-X Lab, Berkeley, CA \u2014 Data Scientist 2018 - PRESENT (Industry Project) \u25cf Researched and developed genera(cid:415)ve AI for music \u25cf Encoded audio data into a learnable language model \u25cf Drove architecture improvements of LSTM, and Sequence GANs \u25cf Completed Mozart\u2019s un\ufb01nished work \u2018Requiem\u2019 by style learning"
+      },
+      {
+        "parent": [
+          5
+        ],
+        "tag_name": "p",
+        "my_id": 8,
+        "all_childs": [],
+        "childs": [],
+        "table_id": "",
+        "doc_name": "2019-08-09_00:16:02.html",
+        "text": "AI Singapore, Singapore \u2014 Data Scientist / AI Engineer 2018 - 2018 \u25cf Developed anomaly detec(cid:415)on models for predic(cid:415)ve maintenance \u25cf Reduced cost of defense systems failures by $10MM \u25cf Automated ETL and processing pipelines for (cid:415)me series data \u25cf Collaborated with agencies and informed data-driven decisions"
+      },
+      {
+        "parent": [
+          5
+        ],
+        "tag_name": "p",
+        "my_id": 9,
+        "all_childs": [],
+        "childs": [],
+        "table_id": "",
+        "doc_name": "2019-08-09_00:16:02.html",
+        "text": "Ring Theory, Cambridge, MA \u2014 Cofounder, Product Engineer 2014 - 2017 \u25cf Invented patent-pending miniature NFC with 4x range \u25cf Developed and sold payment IoT product to 500k users \u25cf Raised funding and expanded markets to N. America and SE. Asia"
+      }
+    ],
+    "tag_name": "b",
+    "table_id": "",
+    "my_id": 5,
+    "text": "EXPERIENCE"
+  },
+  {
+    "childs": [
+      11
+    ],
+    "parent": [],
+    "doc_name": "2019-08-09_00:16:02.html",
+    "all_childs": [
+      {
+        "parent": [
+          10
+        ],
+        "tag_name": "p",
+        "my_id": 11,
+        "all_childs": [],
+        "childs": [],
+        "table_id": "",
+        "doc_name": "2019-08-09_00:16:02.html",
+        "text": "Python / R SQL / Cypher / Pandas PySpark / Zeppelin Machine / Deep Learning AWS / Azure /"
+      }
+    ],
+    "tag_name": "b",
+    "table_id": "",
+    "my_id": 10,
+    "text": "SKILLS"
+  },
+  {
+    "childs": [
+      13
+    ],
+    "parent": [],
+    "doc_name": "2019-08-09_00:16:02.html",
+    "all_childs": [
+      {
+        "parent": [
+          12
+        ],
+        "tag_name": "p",
+        "my_id": 13,
+        "all_childs": [],
+        "childs": [],
+        "table_id": "",
+        "doc_name": "2019-08-09_00:16:02.html",
+        "text": "Docker"
+      }
+    ],
+    "tag_name": "b",
+    "table_id": "",
+    "my_id": 12,
+    "text": "GCP Scikit-Learn / CV / NLP PyTorch / TensorFlow / Keras Expected :"
+  },
+  {
+    "childs": [
+      15,
+      16
+    ],
+    "parent": [],
+    "doc_name": "2019-08-09_00:16:02.html",
+    "all_childs": [
+      {
+        "parent": [
+          14
+        ],
+        "tag_name": "p",
+        "my_id": 15,
+        "all_childs": [],
+        "childs": [],
+        "table_id": "",
+        "doc_name": "2019-08-09_00:16:02.html",
+        "text": "Augmenting Financial Data Developed and optimized \u2018Sequence GANs\u2019 on GCP to augment high- frequency \ufb01nancial trading data for reinforcement learning."
+      },
+      {
+        "parent": [
+          14
+        ],
+        "tag_name": "p",
+        "my_id": 16,
+        "all_childs": [],
+        "childs": [],
+        "table_id": "",
+        "doc_name": "2019-08-09_00:16:02.html",
+        "text": "Min Voters to be US President Solved the knapsack problem to discover it only takes 21.5% of all voters to win the 2016 Presidential Election through the electoral college system."
+      }
+    ],
+    "tag_name": "b",
+    "table_id": "",
+    "my_id": 14,
+    "text": "PROJECT HIGHLIGHTS"
+  },
+  {
+    "childs": [
+      18,
+      19
+    ],
+    "parent": [],
+    "doc_name": "2019-08-09_00:16:02.html",
+    "all_childs": [
+      {
+        "parent": [
+          17
+        ],
+        "tag_name": "p",
+        "my_id": 18,
+        "all_childs": [],
+        "childs": [],
+        "table_id": "",
+        "doc_name": "2019-08-09_00:16:02.html",
+        "text": "Economies of Prototyping - JMD | Strategies to maximize practical value in prototyping."
+      },
+      {
+        "parent": [
+          17
+        ],
+        "tag_name": "p",
+        "my_id": 19,
+        "all_childs": [],
+        "childs": [],
+        "table_id": "",
+        "doc_name": "2019-08-09_00:16:02.html",
+        "text": "Mapping Innovation Processes - IDETC | Uncovered emerging patterns in design activities."
+      }
+    ],
+    "tag_name": "b",
+    "table_id": "",
+    "my_id": 17,
+    "text": "PUBLICATIONS"
+  },
+  {
+    "childs": [
+      21
+    ],
+    "parent": [],
+    "doc_name": "2019-08-09_00:16:02.html",
+    "all_childs": [
+      {
+        "parent": [
+          20
+        ],
+        "tag_name": "p",
+        "my_id": 21,
+        "all_childs": [],
+        "childs": [],
+        "table_id": "",
+        "doc_name": "2019-08-09_00:16:02.html",
+        "text": "UC Berkeley \u2014 M.Eng. in Industrial Engineering & Operations Research \u2014 2018 - 2019 Tan Kah"
+      }
+    ],
+    "tag_name": "b",
+    "table_id": "",
+    "my_id": 20,
+    "text": "EDUCATION"
+  },
+  {
+    "childs": [
+      23,
+      24
+    ],
+    "parent": [],
+    "doc_name": "2019-08-09_00:16:02.html",
+    "all_childs": [
+      {
+        "parent": [
+          22
+        ],
+        "tag_name": "p",
+        "my_id": 23,
+        "all_childs": [],
+        "childs": [],
+        "table_id": "",
+        "doc_name": "2019-08-09_00:16:02.html",
+        "text": "3.96/4.0"
+      },
+      {
+        "parent": [
+          22
+        ],
+        "tag_name": "p",
+        "my_id": 24,
+        "all_childs": [],
+        "childs": [],
+        "table_id": "",
+        "doc_name": "2019-08-09_00:16:02.html",
+        "text": "Singapore University of Technology and Design \u2014 B.Eng. in Systems Engineering \u2014 2012 -"
+      }
+    ],
+    "tag_name": "b",
+    "table_id": "",
+    "my_id": 22,
+    "text": "Kee Scholar (entrepreneur & community service), GPA:"
+  },
+  {
+    "childs": [
+      26,
+      27
+    ],
+    "parent": [],
+    "doc_name": "2019-08-09_00:16:02.html",
+    "all_childs": [
+      {
+        "parent": [
+          25
+        ],
+        "tag_name": "p",
+        "my_id": 26,
+        "all_childs": [],
+        "childs": [],
+        "table_id": "",
+        "doc_name": "2019-08-09_00:16:02.html",
+        "text": "4.93/5.0"
+      },
+      {
+        "parent": [
+          25
+        ],
+        "tag_name": "p",
+        "my_id": 27,
+        "all_childs": [],
+        "childs": [],
+        "table_id": "",
+        "doc_name": "2019-08-09_00:16:02.html",
+        "text": "MIT \u2014 Global Engineering Leadership Program \u2014 2013"
+      }
+    ],
+    "tag_name": "b",
+    "table_id": "",
+    "my_id": 25,
+    "text": "2015 Summa Cum Laude, Dean\u2019s List, Top Graduate, GPA:"
+  }
+]

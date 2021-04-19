@@ -1,0 +1,377 @@
+[
+  {
+    "all_childs": [],
+    "table_id": "",
+    "my_id": 1,
+    "childs": [
+      2
+    ],
+    "tag_name": "b",
+    "text": "Faktura Fakturanr Kundenr Fakturadato",
+    "parent": [],
+    "doc_name": "2019-08-09_00:16:53.html"
+  },
+  {
+    "all_childs": [],
+    "table_id": "",
+    "my_id": 2,
+    "childs": [],
+    "tag_name": "p",
+    "text": "Retur: CLAS OHLSON AS, Postboks 485 Sentrum, 0105-OSLO",
+    "parent": [
+      1
+    ],
+    "doc_name": "2019-08-09_00:16:53.html"
+  },
+  {
+    "all_childs": [],
+    "table_id": "",
+    "my_id": 3,
+    "childs": [
+      4
+    ],
+    "tag_name": "b",
+    "text": "9369961 NO981585429 12.04.2019",
+    "parent": [],
+    "doc_name": "2019-08-09_00:16:53.html"
+  },
+  {
+    "all_childs": [],
+    "table_id": "",
+    "my_id": 4,
+    "childs": [],
+    "tag_name": "p",
+    "text": "KJELDSBERG EIENDOMSFORV.AS POSTBOKS 4284 SLUPPEN 7436 TRONDHEIM",
+    "parent": [
+      3
+    ],
+    "doc_name": "2019-08-09_00:16:53.html"
+  },
+  {
+    "all_childs": [],
+    "table_id": "",
+    "my_id": 5,
+    "childs": [
+      6
+    ],
+    "tag_name": "b",
+    "text": "Deres referansekode",
+    "parent": [],
+    "doc_name": "2019-08-09_00:16:53.html"
+  },
+  {
+    "all_childs": [],
+    "table_id": "",
+    "my_id": 6,
+    "childs": [],
+    "tag_name": "p",
+    "text": "1013 1033 1034 1059 V\u00e5r referanse JONNY BREVIK",
+    "parent": [
+      5
+    ],
+    "doc_name": "2019-08-09_00:16:53.html"
+  },
+  {
+    "all_childs": [],
+    "table_id": "",
+    "my_id": 7,
+    "childs": [
+      8
+    ],
+    "tag_name": "b",
+    "text": "Deres referanse Betalingsbetingelser",
+    "parent": [],
+    "doc_name": "2019-08-09_00:16:53.html"
+  },
+  {
+    "all_childs": [],
+    "table_id": "",
+    "my_id": 8,
+    "childs": [],
+    "tag_name": "p",
+    "text": "30 DAGER NETTO",
+    "parent": [
+      7
+    ],
+    "doc_name": "2019-08-09_00:16:53.html"
+  },
+  {
+    "all_childs": [],
+    "table_id": "",
+    "my_id": 9,
+    "childs": [
+      10
+    ],
+    "tag_name": "b",
+    "text": "Deres kontakt",
+    "parent": [],
+    "doc_name": "2019-08-09_00:16:53.html"
+  },
+  {
+    "all_childs": [],
+    "table_id": "",
+    "my_id": 10,
+    "childs": [],
+    "tag_name": "p",
+    "text": "1013 1033 1034 1059 Forfallsdato 12.05.2019",
+    "parent": [
+      9
+    ],
+    "doc_name": "2019-08-09_00:16:53.html"
+  },
+  {
+    "all_childs": [],
+    "table_id": "",
+    "my_id": 11,
+    "childs": [
+      12
+    ],
+    "tag_name": "b",
+    "text": "Leveringsbetingelser Forsinkelsesrente",
+    "parent": [],
+    "doc_name": "2019-08-09_00:16:53.html"
+  },
+  {
+    "all_childs": [],
+    "table_id": "",
+    "my_id": 12,
+    "childs": [],
+    "tag_name": "p",
+    "text": "8,00 %",
+    "parent": [
+      11
+    ],
+    "doc_name": "2019-08-09_00:16:53.html"
+  },
+  {
+    "all_childs": [],
+    "table_id": "",
+    "my_id": 13,
+    "childs": [
+      14
+    ],
+    "tag_name": "b",
+    "text": "Leveringsdato",
+    "parent": [],
+    "doc_name": "2019-08-09_00:16:53.html"
+  },
+  {
+    "all_childs": [],
+    "table_id": "",
+    "my_id": 14,
+    "childs": [],
+    "tag_name": "p",
+    "text": "12.04.2019 KID nr. 093699619",
+    "parent": [
+      13
+    ],
+    "doc_name": "2019-08-09_00:16:53.html"
+  },
+  {
+    "all_childs": [],
+    "table_id": "",
+    "my_id": 15,
+    "childs": [
+      16
+    ],
+    "tag_name": "b",
+    "text": "Artikkel Beskrivelse Antall Enhet A-pris Rabatt Mva. % Bel\u00f8p ekskl. mva.",
+    "parent": [],
+    "doc_name": "2019-08-09_00:16:53.html"
+  },
+  {
+    "all_childs": [],
+    "table_id": "",
+    "my_id": 16,
+    "childs": [],
+    "tag_name": "p",
+    "text": "30-6410 Borsett hss cotech 1,00 127,20 NOK 25,00 127,20 NOK",
+    "parent": [
+      15
+    ],
+    "doc_name": "2019-08-09_00:16:53.html"
+  },
+  {
+    "all_childs": [],
+    "table_id": "",
+    "my_id": 17,
+    "childs": [
+      18
+    ],
+    "tag_name": "b",
+    "text": "Datum:",
+    "parent": [],
+    "doc_name": "2019-08-09_00:16:53.html"
+  },
+  {
+    "all_childs": [],
+    "table_id": "",
+    "my_id": 18,
+    "childs": [],
+    "tag_name": "p",
+    "text": "190411 Kassa:4 Kvittonr:706417",
+    "parent": [
+      17
+    ],
+    "doc_name": "2019-08-09_00:16:53.html"
+  },
+  {
+    "all_childs": [],
+    "table_id": "",
+    "my_id": 19,
+    "childs": [
+      20
+    ],
+    "tag_name": "b",
+    "text": "Butikk:",
+    "parent": [],
+    "doc_name": "2019-08-09_00:16:53.html"
+  },
+  {
+    "all_childs": [],
+    "table_id": "",
+    "my_id": 20,
+    "childs": [],
+    "tag_name": "p",
+    "text": "Trondheim ToKortnummer: 6374230100226404Kassasalg 40-9225-1 Gipsanker 4e 10-16 1,00 35,92 NOK 25,00 35,92 NOK 40-9225-2 Gipsanker 4d 16-28 1,00 35,92 NOK 25,00 35,92 NOK 40-9383 Vaterpass cocraft 1,00 159,20 NOK 25,00 159,20 NOK",
+    "parent": [
+      19
+    ],
+    "doc_name": "2019-08-09_00:16:53.html"
+  },
+  {
+    "all_childs": [],
+    "table_id": "",
+    "my_id": 21,
+    "childs": [
+      22,
+      23
+    ],
+    "tag_name": "b",
+    "text": "Avgift Rabatt Mva. % MVA grunnlag MVA bel\u00f8p",
+    "parent": [],
+    "doc_name": "2019-08-09_00:16:53.html"
+  },
+  {
+    "all_childs": [],
+    "table_id": "",
+    "my_id": 22,
+    "childs": [],
+    "tag_name": "p",
+    "text": "Avrunding Sum ekskl. mva.",
+    "parent": [
+      21
+    ],
+    "doc_name": "2019-08-09_00:16:53.html"
+  },
+  {
+    "all_childs": [],
+    "table_id": "",
+    "my_id": 23,
+    "childs": [],
+    "tag_name": "p",
+    "text": "25,00 358,24 NOK 89,56 NOK 0,20 NOK 358,24 NOK",
+    "parent": [
+      21
+    ],
+    "doc_name": "2019-08-09_00:16:53.html"
+  },
+  {
+    "all_childs": [],
+    "table_id": "",
+    "my_id": 24,
+    "childs": [
+      25
+    ],
+    "tag_name": "b",
+    "text": "\u00c5 Betale 448,00 NOK",
+    "parent": [],
+    "doc_name": "2019-08-09_00:16:53.html"
+  },
+  {
+    "all_childs": [],
+    "table_id": "",
+    "my_id": 25,
+    "childs": [],
+    "tag_name": "p",
+    "text": "CLAS OHLSON AS Bankkonto Org. nr. Torggata 2-4-6 60050598694 937402198",
+    "parent": [
+      24
+    ],
+    "doc_name": "2019-08-09_00:16:53.html"
+  },
+  {
+    "all_childs": [],
+    "table_id": "",
+    "my_id": 26,
+    "childs": [
+      27,
+      28
+    ],
+    "tag_name": "b",
+    "text": "Postboks 485 Sentrum",
+    "parent": [],
+    "doc_name": "2019-08-09_00:16:53.html"
+  },
+  {
+    "all_childs": [],
+    "table_id": "",
+    "my_id": 27,
+    "childs": [],
+    "tag_name": "p",
+    "text": "BIC Foretaksregisteret",
+    "parent": [
+      26
+    ],
+    "doc_name": "2019-08-09_00:16:53.html"
+  },
+  {
+    "all_childs": [],
+    "table_id": "",
+    "my_id": 28,
+    "childs": [],
+    "tag_name": "p",
+    "text": "0105 OSLO NDEANOKK Mva. nr.",
+    "parent": [
+      26
+    ],
+    "doc_name": "2019-08-09_00:16:53.html"
+  },
+  {
+    "all_childs": [],
+    "table_id": "",
+    "my_id": 29,
+    "childs": [
+      30,
+      31
+    ],
+    "tag_name": "b",
+    "text": "IBAN",
+    "parent": [],
+    "doc_name": "2019-08-09_00:16:53.html"
+  },
+  {
+    "all_childs": [],
+    "table_id": "",
+    "my_id": 30,
+    "childs": [],
+    "tag_name": "p",
+    "text": "NO937402198MVA",
+    "parent": [
+      29
+    ],
+    "doc_name": "2019-08-09_00:16:53.html"
+  },
+  {
+    "all_childs": [],
+    "table_id": "",
+    "my_id": 31,
+    "childs": [],
+    "tag_name": "p",
+    "text": "NO7260050598694",
+    "parent": [
+      29
+    ],
+    "doc_name": "2019-08-09_00:16:53.html"
+  }
+]

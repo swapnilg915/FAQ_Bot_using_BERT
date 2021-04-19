@@ -1,0 +1,60 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Home</title>
+	<!-- <link rel="stylesheet" type="text/css" href="../static/css/styles.css"> -->
+	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+
+	<header>
+		<div class="container">
+		<!-- <div id="brandname">
+			Machine Learning App with Flask
+		</div> -->
+		<h2>Get Similar Query</h2>
+		
+	</div>
+	</header>
+
+	<div class="ml-container">
+
+		<form action="{{ url_for('main')}}" method="POST">
+		<p>Question</p>
+		<!-- <input type="text" name="comment"/> -->
+		<textarea name="query" rows="4" cols="50"></textarea>
+		<br/>
+
+		<form action="{{ url_for('main')}}" method="POST">
+		<p>Language: en </p>
+		<!-- <input type="text" name="comment"/> -->
+		<textarea name="lang" rows="1" cols="50"></textarea>
+		<br/>
+
+		<form action="{{ url_for('main')}}" method="POST">
+		<p>Model Type: pdf / excel</p>
+		<!-- <input type="text" name="comment"/> -->
+		<textarea name="model_type" rows="1" cols="50"></textarea>
+		<br/>
+
+		<form action="{{ url_for('main')}}" method="POST">
+		<p>Model Name</p>
+		<!-- <input type="text" name="comment"/> -->
+		<textarea name="model_name" rows="1" cols="50"></textarea>
+		<br/>
+
+		<br/>
+		<div class="jumbotron">
+		<input type="submit" class="btn-info" value="Get Answer">
+		</div>
+		
+	</form>
+		
+	</div>
+
+	
+	
+
+</body>
+</html>

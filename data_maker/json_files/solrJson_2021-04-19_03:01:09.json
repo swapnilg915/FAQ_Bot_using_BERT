@@ -1,0 +1,338 @@
+[
+  {
+    "my_id": 1,
+    "childs": [],
+    "parent": [
+      0
+    ],
+    "text": "Why did Microsoft develop the Bot Framework?",
+    "tag_name": "p",
+    "doc_name": "2021-04-19_03:01:09.html",
+    "table_id": "",
+    "all_childs": []
+  },
+  {
+    "my_id": 2,
+    "childs": [],
+    "parent": [
+      0
+    ],
+    "text": "While the Conversation User Interface (CUI) is upon us, at this point few developers have the expertise and tools needed to create new conversational experiences or enable existing applications and services with a conversational interface their users can enjoy. We have created the Bot Framework to make it easier for developers to build and connect great bots to users, wherever they converse, including on Microsoft's premier channels.",
+    "tag_name": "p",
+    "doc_name": "2021-04-19_03:01:09.html",
+    "table_id": "",
+    "all_childs": []
+  },
+  {
+    "my_id": 3,
+    "childs": [],
+    "parent": [
+      0
+    ],
+    "text": "What is the v4 SDK?",
+    "tag_name": "p",
+    "doc_name": "2021-04-19_03:01:09.html",
+    "table_id": "",
+    "all_childs": []
+  },
+  {
+    "my_id": 4,
+    "childs": [],
+    "parent": [
+      0
+    ],
+    "text": "Bot Builder v4 SDK builds on the feedback and learnings from the prior Bot Builder SDKs. It introduces the right levels of abstraction while enabling rich componentization of the bot building blocks. You can start with a simple bot and grow your bot in sophistication using a modular and extensible framework. You can find FAQ for the SDK on GitHub.",
+    "tag_name": "p",
+    "doc_name": "2021-04-19_03:01:09.html",
+    "table_id": "",
+    "all_childs": []
+  },
+  {
+    "my_id": 5,
+    "childs": [],
+    "parent": [
+      0
+    ],
+    "text": "When will you add more conversation experiences to the Bot Framework?",
+    "tag_name": "p",
+    "doc_name": "2021-04-19_03:01:09.html",
+    "table_id": "",
+    "all_childs": []
+  },
+  {
+    "my_id": 6,
+    "childs": [],
+    "parent": [
+      0
+    ],
+    "text": "We plan on making continuous improvements to the Bot Framework, including additional channels, but cannot provide a schedule at this time.",
+    "tag_name": "p",
+    "doc_name": "2021-04-19_03:01:09.html",
+    "table_id": "",
+    "all_childs": []
+  },
+  {
+    "my_id": 7,
+    "childs": [],
+    "parent": [
+      0
+    ],
+    "text": "If you would like a specific channel added to the framework, let us know.",
+    "tag_name": "p",
+    "doc_name": "2021-04-19_03:01:09.html",
+    "table_id": "",
+    "all_childs": []
+  },
+  {
+    "my_id": 8,
+    "childs": [],
+    "parent": [
+      0
+    ],
+    "text": "I have a communication channel I\u2019d like to be configurable with Bot Framework. Can I work with Microsoft to do that?",
+    "tag_name": "p",
+    "doc_name": "2021-04-19_03:01:09.html",
+    "table_id": "",
+    "all_childs": []
+  },
+  {
+    "my_id": 9,
+    "childs": [],
+    "parent": [
+      0
+    ],
+    "text": "We have not provided a general mechanism for developers to add new channels to Bot Framework, but you can connect your bot to your app via the Direct Line API. If you are a developer of a communication channel and would like to work with us to enable your channel in the Bot Framework we\u2019d love to hear from you.",
+    "tag_name": "p",
+    "doc_name": "2021-04-19_03:01:09.html",
+    "table_id": "",
+    "all_childs": []
+  },
+  {
+    "my_id": 10,
+    "childs": [],
+    "parent": [
+      0
+    ],
+    "text": "If I want to create a bot for Skype, what tools and services should I use?",
+    "tag_name": "p",
+    "doc_name": "2021-04-19_03:01:09.html",
+    "table_id": "",
+    "all_childs": []
+  },
+  {
+    "my_id": 11,
+    "childs": [],
+    "parent": [
+      0
+    ],
+    "text": "The Bot Framework is designed to build, connect, and deploy high quality, responsive, performant and scalable bots for Skype and many other channels. The SDK can be used to create text/sms, image, button and card- capable bots (which constitute the majority of bot interactions today across conversation experiences) as well as bot interactions which are Skype- specific such as rich audio and video experiences.",
+    "tag_name": "p",
+    "doc_name": "2021-04-19_03:01:09.html",
+    "table_id": "",
+    "all_childs": []
+  },
+  {
+    "my_id": 12,
+    "childs": [],
+    "parent": [
+      0
+    ],
+    "text": "If you already have a great bot and would like to reach the Skype audience, your bot can easily be connected to Skype (or any supported channel) via the Bot Builder for REST API (provided it has an internet-accessible REST endpoint).",
+    "tag_name": "p",
+    "doc_name": "2021-04-19_03:01:09.html",
+    "table_id": "",
+    "all_childs": []
+  },
+  {
+    "my_id": 13,
+    "childs": [],
+    "parent": [
+      0
+    ],
+    "text": "Do the bots registered with the Bot Framework collect personal information? If yes, how can I be sure the data is safe and secure? What about privacy?",
+    "tag_name": "p",
+    "doc_name": "2021-04-19_03:01:09.html",
+    "table_id": "",
+    "all_childs": []
+  },
+  {
+    "my_id": 14,
+    "childs": [],
+    "parent": [
+      0
+    ],
+    "text": "Each bot is its own service, and developers of these services are required to provide Terms of Service and Privacy Statements per their Developer Code of Conduct. You can access this information from the bot\u2019s card in the Bot Directory.",
+    "tag_name": "p",
+    "doc_name": "2021-04-19_03:01:09.html",
+    "table_id": "",
+    "all_childs": []
+  },
+  {
+    "my_id": 15,
+    "childs": [],
+    "parent": [
+      0
+    ],
+    "text": "to provide the I/O service, the Bot Framework transmits your message and message content (including your ID), from the chat service you used to the bot.",
+    "tag_name": "p",
+    "doc_name": "2021-04-19_03:01:09.html",
+    "table_id": "",
+    "all_childs": []
+  },
+  {
+    "my_id": 16,
+    "childs": [],
+    "parent": [
+      0
+    ],
+    "text": "Can I host my bot on my own servers?",
+    "tag_name": "p",
+    "doc_name": "2021-04-19_03:01:09.html",
+    "table_id": "",
+    "all_childs": []
+  },
+  {
+    "my_id": 17,
+    "childs": [],
+    "parent": [
+      0
+    ],
+    "text": "Yes. Your bot can be hosted anywhere on the Internet. On your own servers, in Azure, or in any other datacenter. The only requirement is that the bot must expose a publicly-accessible HTTPS endpoint.",
+    "tag_name": "p",
+    "doc_name": "2021-04-19_03:01:09.html",
+    "table_id": "",
+    "all_childs": []
+  },
+  {
+    "my_id": 18,
+    "childs": [],
+    "parent": [
+      0
+    ],
+    "text": "How do you ban or remove bots from the service?",
+    "tag_name": "p",
+    "doc_name": "2021-04-19_03:01:09.html",
+    "table_id": "",
+    "all_childs": []
+  },
+  {
+    "my_id": 19,
+    "childs": [],
+    "parent": [
+      0
+    ],
+    "text": "Users have a way to report a misbehaving bot via the bot\u2019s contact card in the directory. Developers must abide by Microsoft terms of service to participate in the service.",
+    "tag_name": "p",
+    "doc_name": "2021-04-19_03:01:09.html",
+    "table_id": "",
+    "all_childs": []
+  },
+  {
+    "my_id": 20,
+    "childs": [],
+    "parent": [
+      0
+    ],
+    "text": "Which specific URLs do I need to whitelist in my corporate firewall to access Bot Framework services?",
+    "tag_name": "p",
+    "doc_name": "2021-04-19_03:01:09.html",
+    "table_id": "",
+    "all_childs": []
+  },
+  {
+    "my_id": 21,
+    "childs": [],
+    "parent": [
+      0
+    ],
+    "text": "If you have an outbound firewall blocking traffic from your bot to the Internet, you'll need to whitelist the following URLs in that firewall:",
+    "tag_name": "p",
+    "doc_name": "2021-04-19_03:01:09.html",
+    "table_id": "",
+    "all_childs": []
+  },
+  {
+    "my_id": 22,
+    "childs": [],
+    "parent": [
+      0
+    ],
+    "text": "\uf0b7 login.botframework.com (Bot authentication) \uf0b7 login.microsoftonline.com (Bot authentication) \uf0b7 westus.api.cognitive.microsoft.com (for Luis.ai NLP integration) \uf0b7 state.botframework.com (Bot state storage for prototyping) \uf0b7 cortanabfchanneleastus.azurewebsites.net (Cortana channel) \uf0b7 cortanabfchannelwestus.azurewebsites.net (Cortana Channel) \uf0b7 *.botframework.com (channels) Can I block all traffic to my bot except traffic from the Bot Connector Service?",
+    "tag_name": "p",
+    "doc_name": "2021-04-19_03:01:09.html",
+    "table_id": "",
+    "all_childs": []
+  },
+  {
+    "my_id": 23,
+    "childs": [],
+    "parent": [
+      0
+    ],
+    "text": "No. This sort of IP Address or DNS whitelisting is impractical. The Bot Framework Connector Service is hosted in Azure datacenters world-wide and the list of Azure IPs is constantly changing. Whitelisting certain IP addresses may work one day and break the next as the Azure IP Addresses change.",
+    "tag_name": "p",
+    "doc_name": "2021-04-19_03:01:09.html",
+    "table_id": "",
+    "all_childs": []
+  },
+  {
+    "my_id": 24,
+    "childs": [],
+    "parent": [
+      0
+    ],
+    "text": "What keeps my bot secure from clients impersonating the Bot Framework Connector Service?",
+    "tag_name": "p",
+    "doc_name": "2021-04-19_03:01:09.html",
+    "table_id": "",
+    "all_childs": []
+  },
+  {
+    "my_id": 25,
+    "childs": [],
+    "parent": [
+      0
+    ],
+    "text": "1. The security token accompanying every request to your bot has the ServiceUrl encoded within it, which means that even if an attacker gains access to the token, they cannot redirect the conversation to a new ServiceUrl. This is enforced by all implementations of the SDK and documented in our authentication reference materials.",
+    "tag_name": "p",
+    "doc_name": "2021-04-19_03:01:09.html",
+    "table_id": "",
+    "all_childs": []
+  },
+  {
+    "my_id": 26,
+    "childs": [],
+    "parent": [
+      0
+    ],
+    "text": "2. If the incoming token is missing or malformed, the Bot Framework SDK will not generate a token in response. This limits how much damage can be done if the bot is incorrectly configured.",
+    "tag_name": "p",
+    "doc_name": "2021-04-19_03:01:09.html",
+    "table_id": "",
+    "all_childs": []
+  },
+  {
+    "my_id": 27,
+    "childs": [],
+    "parent": [
+      0
+    ],
+    "text": "3. Inside the bot, you can manually check the ServiceUrl provided in the token. This makes the bot more fragile in the event of service topology changes so this is possible but not recommended.",
+    "tag_name": "p",
+    "doc_name": "2021-04-19_03:01:09.html",
+    "table_id": "",
+    "all_childs": []
+  },
+  {
+    "my_id": 28,
+    "childs": [],
+    "parent": [
+      0
+    ],
+    "text": "Note that these are outbound connections from the bot to the Internet. There is not a list of IP Addresses or DNS names that the Bot Framework Connector Service will use to talk to the bot. Inbound IP Address whitelisting is not supported.",
+    "tag_name": "p",
+    "doc_name": "2021-04-19_03:01:09.html",
+    "table_id": "",
+    "all_childs": []
+  }
+]

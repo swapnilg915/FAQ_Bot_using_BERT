@@ -1,0 +1,927 @@
+[
+  {
+    "childs": [],
+    "text": "Artificial Intelligence for Future Work Force.",
+    "table_id": "",
+    "parent": [
+      0
+    ],
+    "my_id": 1,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "p",
+    "all_childs": []
+  },
+  {
+    "childs": [],
+    "text": ".",
+    "table_id": "",
+    "parent": [
+      0
+    ],
+    "my_id": 2,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "p",
+    "all_childs": []
+  },
+  {
+    "childs": [],
+    "text": "",
+    "table_id": "table_3",
+    "parent": [
+      0
+    ],
+    "my_id": 3,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "table",
+    "all_childs": []
+  },
+  {
+    "childs": [
+      5,
+      6
+    ],
+    "text": "Purpose",
+    "table_id": "",
+    "parent": [],
+    "my_id": 4,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "b",
+    "all_childs": []
+  },
+  {
+    "childs": [],
+    "text": "This policy outlines our expectations regarding employees\u2019 behaviour towards their colleagues, supervisors and overall organization.",
+    "table_id": "",
+    "parent": [
+      4
+    ],
+    "my_id": 5,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "p",
+    "all_childs": []
+  },
+  {
+    "childs": [],
+    "text": "We promote freedom of expression and open communication. But we expect all employees to follow our code of conduct. They should avoid offending, participating in serious disputes and disrupting our workplace. We also expect them to foster a well-organized, respectful and collaborative environment. Employees are expected to act with integrity and objectivity, striving at all times to enhance the reputation and performance of the Company.",
+    "table_id": "",
+    "parent": [
+      4
+    ],
+    "my_id": 6,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "p",
+    "all_childs": []
+  },
+  {
+    "childs": [
+      8
+    ],
+    "text": "Scope:",
+    "table_id": "",
+    "parent": [],
+    "my_id": 7,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "b",
+    "all_childs": []
+  },
+  {
+    "childs": [],
+    "text": "This policy is applicable to all the Permanent and Contract employees.",
+    "table_id": "",
+    "parent": [
+      7
+    ],
+    "my_id": 8,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "p",
+    "all_childs": []
+  },
+  {
+    "childs": [
+      10
+    ],
+    "text": "What are the components of an Employee Code of Conduct Policy?",
+    "table_id": "",
+    "parent": [],
+    "my_id": 9,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "b",
+    "all_childs": []
+  },
+  {
+    "childs": [],
+    "text": "Company employees are bound by their contract to follow our Employee Code of Conduct while",
+    "table_id": "",
+    "parent": [
+      9
+    ],
+    "my_id": 10,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "p",
+    "all_childs": []
+  },
+  {
+    "childs": [],
+    "text": "performing their duties. We outline the components of our Code of Conduct below:",
+    "table_id": "",
+    "parent": [],
+    "my_id": 11,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "b",
+    "all_childs": []
+  },
+  {
+    "childs": [
+      13
+    ],
+    "text": "Compliance with law",
+    "table_id": "",
+    "parent": [],
+    "my_id": 12,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "b",
+    "all_childs": []
+  },
+  {
+    "childs": [],
+    "text": "All employees must protect our company\u2019s legality. They should comply with all environmental, safety and fair dealing laws. We expect employees to be ethical and responsible when dealing with our company\u2019s finances, products, partnerships and public image.",
+    "table_id": "",
+    "parent": [
+      12
+    ],
+    "my_id": 13,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "p",
+    "all_childs": []
+  },
+  {
+    "childs": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "text": "Respect at the workplace",
+    "table_id": "",
+    "parent": [],
+    "my_id": 14,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "b",
+    "all_childs": []
+  },
+  {
+    "childs": [],
+    "text": "All employees should respect their colleagues and show courtesy, having regard for their dignity and rights. We won\u2019t allow any kind of discriminatory behaviour, harassment or victimization.",
+    "table_id": "",
+    "parent": [
+      14
+    ],
+    "my_id": 15,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "p",
+    "all_childs": []
+  },
+  {
+    "childs": [],
+    "text": "Employees should conform with our equal opportunity policy in all aspects of their work, from recruitment and performance evaluation to interpersonal relations.",
+    "table_id": "",
+    "parent": [
+      14
+    ],
+    "my_id": 16,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "p",
+    "all_childs": []
+  },
+  {
+    "childs": [],
+    "text": "Management reserves the rights to exercise their discretion in certain exceptional circumstances.",
+    "table_id": "",
+    "parent": [
+      14
+    ],
+    "my_id": 17,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "p",
+    "all_childs": []
+  },
+  {
+    "childs": [],
+    "text": "E-mail: sales@simplifai.ai Simplifai Cognitive Services Pvt Ltd / CIN: U74999PN2018FTC175269.",
+    "table_id": "",
+    "parent": [
+      14
+    ],
+    "my_id": 18,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "p",
+    "all_childs": []
+  },
+  {
+    "childs": [],
+    "text": "Web: www.simplifai.ai Visiting address: The Pavilion, S.No. 105/1, 4th Floor, Baner, Pune- 411026",
+    "table_id": "",
+    "parent": [
+      14
+    ],
+    "my_id": 19,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "p",
+    "all_childs": []
+  },
+  {
+    "childs": [],
+    "text": "Artificial Intelligence for Future Work Force.",
+    "table_id": "",
+    "parent": [
+      14
+    ],
+    "my_id": 20,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "p",
+    "all_childs": []
+  },
+  {
+    "childs": [
+      22
+    ],
+    "text": "Professionalism",
+    "table_id": "",
+    "parent": [],
+    "my_id": 21,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "b",
+    "all_childs": []
+  },
+  {
+    "childs": [],
+    "text": "All employees must show integrity and professionalism in the workplace.",
+    "table_id": "",
+    "parent": [
+      21
+    ],
+    "my_id": 22,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "p",
+    "all_childs": []
+  },
+  {
+    "childs": [
+      24
+    ],
+    "text": "Personal appearance",
+    "table_id": "",
+    "parent": [],
+    "my_id": 23,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "b",
+    "all_childs": []
+  },
+  {
+    "childs": [],
+    "text": "All employees must follow our dress code and personal appearance guidelines.",
+    "table_id": "",
+    "parent": [
+      23
+    ],
+    "my_id": 24,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "p",
+    "all_childs": []
+  },
+  {
+    "childs": [
+      26
+    ],
+    "text": "Corruption",
+    "table_id": "",
+    "parent": [],
+    "my_id": 25,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "b",
+    "all_childs": []
+  },
+  {
+    "childs": [],
+    "text": "We discourage employees from accepting gifts from clients or partners. We prohibit briberies for the benefit of any external or internal party.",
+    "table_id": "",
+    "parent": [
+      25
+    ],
+    "my_id": 26,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "p",
+    "all_childs": []
+  },
+  {
+    "childs": [
+      28
+    ],
+    "text": "Job duties and authority",
+    "table_id": "",
+    "parent": [],
+    "my_id": 27,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "b",
+    "all_childs": []
+  },
+  {
+    "childs": [],
+    "text": "All employees should fulfil their job duties with integrity and respect toward employees, clients, customers, stakeholders and the community. Supervisors and managers mustn\u2019t abuse their authority. We expect them to delegate duties to their team members taking into account their competencies and workload. Likewise, we expect team members to follow team leaders\u2019 instructions and complete their duties with skill and in a timely manner. We encourage mentoring throughout our company.",
+    "table_id": "",
+    "parent": [
+      27
+    ],
+    "my_id": 28,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "p",
+    "all_childs": []
+  },
+  {
+    "childs": [
+      30
+    ],
+    "text": "Absenteeism and tardiness",
+    "table_id": "",
+    "parent": [],
+    "my_id": 29,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "b",
+    "all_childs": []
+  },
+  {
+    "childs": [],
+    "text": "Employees should follow and adhere to leave and attendance policy. We can make exceptions for occasions that prevent employees from following standard working hours or days. But, generally, we expect employees to be punctual when coming to and leaving from work.",
+    "table_id": "",
+    "parent": [
+      29
+    ],
+    "my_id": 30,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "p",
+    "all_childs": []
+  },
+  {
+    "childs": [
+      32
+    ],
+    "text": "Conflict of interest",
+    "table_id": "",
+    "parent": [],
+    "my_id": 31,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "b",
+    "all_childs": []
+  },
+  {
+    "childs": [],
+    "text": "We expect employees to avoid any personal, financial or other interests that might hinder their capability or willingness to perform their job duties.",
+    "table_id": "",
+    "parent": [
+      31
+    ],
+    "my_id": 32,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "p",
+    "all_childs": []
+  },
+  {
+    "childs": [
+      34
+    ],
+    "text": "Collaboration",
+    "table_id": "",
+    "parent": [],
+    "my_id": 33,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "b",
+    "all_childs": []
+  },
+  {
+    "childs": [],
+    "text": "Employees should be friendly and collaborative. They should try not to disrupt the workplace or present obstacles to their colleagues\u2019 work.",
+    "table_id": "",
+    "parent": [
+      33
+    ],
+    "my_id": 34,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "p",
+    "all_childs": []
+  },
+  {
+    "childs": [
+      36,
+      37,
+      38,
+      39,
+      40,
+      41
+    ],
+    "text": "Use of alcohol, drugs and tobacco",
+    "table_id": "",
+    "parent": [],
+    "my_id": 35,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "b",
+    "all_childs": []
+  },
+  {
+    "childs": [],
+    "text": "Do not report for work under the influence of illicit drugs or alcohol.",
+    "table_id": "",
+    "parent": [
+      35
+    ],
+    "my_id": 36,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "p",
+    "all_childs": []
+  },
+  {
+    "childs": [],
+    "text": "If employee is taking prescription medication, they are required to inform their manager.",
+    "table_id": "",
+    "parent": [
+      35
+    ],
+    "my_id": 37,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "p",
+    "all_childs": []
+  },
+  {
+    "childs": [],
+    "text": "If any employee found under the influence of alcohol / drugs, necessary action will be taken immediately for the betterment of the workplace.",
+    "table_id": "",
+    "parent": [
+      35
+    ],
+    "my_id": 38,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "p",
+    "all_childs": []
+  },
+  {
+    "childs": [],
+    "text": "E-mail: sales@simplifai.ai Simplifai Cognitive Services Pvt Ltd / CIN: U74999PN2018FTC175269.",
+    "table_id": "",
+    "parent": [
+      35
+    ],
+    "my_id": 39,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "p",
+    "all_childs": []
+  },
+  {
+    "childs": [],
+    "text": "Web: www.simplifai.ai Visiting address: The Pavilion, S.No. 105/1, 4th Floor, Baner, Pune- 411026",
+    "table_id": "",
+    "parent": [
+      35
+    ],
+    "my_id": 40,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "p",
+    "all_childs": []
+  },
+  {
+    "childs": [],
+    "text": "Artificial Intelligence for Future Work Force.",
+    "table_id": "",
+    "parent": [
+      35
+    ],
+    "my_id": 41,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "p",
+    "all_childs": []
+  },
+  {
+    "childs": [
+      43
+    ],
+    "text": "Communication",
+    "table_id": "",
+    "parent": [],
+    "my_id": 42,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "b",
+    "all_childs": []
+  },
+  {
+    "childs": [],
+    "text": "All employees must be open for communication with their colleagues, supervisors or team members.",
+    "table_id": "",
+    "parent": [
+      42
+    ],
+    "my_id": 43,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "p",
+    "all_childs": []
+  },
+  {
+    "childs": [
+      45,
+      46
+    ],
+    "text": "Grievances and concern addresses",
+    "table_id": "",
+    "parent": [],
+    "my_id": 44,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "b",
+    "all_childs": []
+  },
+  {
+    "childs": [],
+    "text": "Any concerns should be conveyed to reporting manager and HR immediately and reporting manager should be addressed and resolved in a timely manner. If required, it should be passed on to the senior authority / management just to make sure it is resolved.",
+    "table_id": "",
+    "parent": [
+      44
+    ],
+    "my_id": 45,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "p",
+    "all_childs": []
+  },
+  {
+    "childs": [],
+    "text": "Any concerns caught up persistently and not resolved, the manager would be held responsible.",
+    "table_id": "",
+    "parent": [
+      44
+    ],
+    "my_id": 46,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "p",
+    "all_childs": []
+  },
+  {
+    "childs": [
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54
+    ],
+    "text": "Appropriate use of electronic communication",
+    "table_id": "",
+    "parent": [],
+    "my_id": 47,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "b",
+    "all_childs": []
+  },
+  {
+    "childs": [],
+    "text": "Do not download or upload obscene, offensive or illegal material.",
+    "table_id": "",
+    "parent": [
+      47
+    ],
+    "my_id": 48,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "p",
+    "all_childs": []
+  },
+  {
+    "childs": [],
+    "text": "Restrict sending confidential information to unauthorized recipients.",
+    "table_id": "",
+    "parent": [
+      47
+    ],
+    "my_id": 49,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "p",
+    "all_childs": []
+  },
+  {
+    "childs": [],
+    "text": "Do not invade another person\u2019s privacy and gain access to sensitive information.",
+    "table_id": "",
+    "parent": [
+      47
+    ],
+    "my_id": 50,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "p",
+    "all_childs": []
+  },
+  {
+    "childs": [],
+    "text": "Not to download or upload pirated movies, music, material or software.",
+    "table_id": "",
+    "parent": [
+      47
+    ],
+    "my_id": 51,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "p",
+    "all_childs": []
+  },
+  {
+    "childs": [],
+    "text": "Do not visit potentially dangerous websites that can compromise our network and computers\u2019 safety.",
+    "table_id": "",
+    "parent": [
+      47
+    ],
+    "my_id": 52,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "p",
+    "all_childs": []
+  },
+  {
+    "childs": [],
+    "text": "Do not perform unauthorized or illegal actions, like hacking, fraud or buying/selling illegal goods.",
+    "table_id": "",
+    "parent": [
+      47
+    ],
+    "my_id": 53,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "p",
+    "all_childs": []
+  },
+  {
+    "childs": [],
+    "text": "Report any situations where you become aware of the inappropriate use of electronic communication and social networking sites.",
+    "table_id": "",
+    "parent": [
+      47
+    ],
+    "my_id": 54,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "p",
+    "all_childs": []
+  },
+  {
+    "childs": [
+      56,
+      57,
+      58,
+      59
+    ],
+    "text": "No Gossiping at workplace",
+    "table_id": "",
+    "parent": [],
+    "my_id": 55,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "b",
+    "all_childs": []
+  },
+  {
+    "childs": [],
+    "text": "Not to speak or insinuate another person\u2019s name when that person is not present unless it is to compliment or reference regarding work matters.",
+    "table_id": "",
+    "parent": [
+      55
+    ],
+    "my_id": 56,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "p",
+    "all_childs": []
+  },
+  {
+    "childs": [],
+    "text": "Refuse to participate when another mentions a person who is not present in a negative light.",
+    "table_id": "",
+    "parent": [
+      55
+    ],
+    "my_id": 57,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "p",
+    "all_childs": []
+  },
+  {
+    "childs": [],
+    "text": "Choose not to respond to negative email or use email to pass on private or derogatory information about any person in the agency.",
+    "table_id": "",
+    "parent": [
+      55
+    ],
+    "my_id": 58,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "p",
+    "all_childs": []
+  },
+  {
+    "childs": [],
+    "text": "If another person in the department does something unethical, incorrect, against procedures, or disruptive, use the proper channels to report this to the person in authority to take corrective action.",
+    "table_id": "",
+    "parent": [
+      55
+    ],
+    "my_id": 59,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "p",
+    "all_childs": []
+  },
+  {
+    "childs": [
+      61,
+      62,
+      63,
+      64
+    ],
+    "text": "Do a good work, be a professional at work and expect the same from others at workplace: Safe and Healthy Environment",
+    "table_id": "",
+    "parent": [],
+    "my_id": 60,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "b",
+    "all_childs": []
+  },
+  {
+    "childs": [],
+    "text": "Employees are to perform their duties in a safe and competent manner in accordance with organizational workplace health and safety rules. Employees take action in preventing, identifying and responding to workplace health and safety risks.",
+    "table_id": "",
+    "parent": [
+      60
+    ],
+    "my_id": 61,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "p",
+    "all_childs": []
+  },
+  {
+    "childs": [],
+    "text": "E-mail: sales@simplifai.ai Simplifai Cognitive Services Pvt Ltd / CIN: U74999PN2018FTC175269.",
+    "table_id": "",
+    "parent": [
+      60
+    ],
+    "my_id": 62,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "p",
+    "all_childs": []
+  },
+  {
+    "childs": [],
+    "text": "Web: www.simplifai.ai Visiting address: The Pavilion, S.No. 105/1, 4th Floor, Baner, Pune- 411026",
+    "table_id": "",
+    "parent": [
+      60
+    ],
+    "my_id": 63,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "p",
+    "all_childs": []
+  },
+  {
+    "childs": [],
+    "text": "Artificial Intelligence for Future Work Force.",
+    "table_id": "",
+    "parent": [
+      60
+    ],
+    "my_id": 64,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "p",
+    "all_childs": []
+  },
+  {
+    "childs": [
+      66
+    ],
+    "text": "Benefit",
+    "table_id": "",
+    "parent": [],
+    "my_id": 65,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "b",
+    "all_childs": []
+  },
+  {
+    "childs": [],
+    "text": "We expect employees to not abuse their employment benefits. This can refer to time off, insurance, facilities, subscriptions or other benefits our company offers.",
+    "table_id": "",
+    "parent": [
+      65
+    ],
+    "my_id": 66,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "p",
+    "all_childs": []
+  },
+  {
+    "childs": [
+      68
+    ],
+    "text": "Policies",
+    "table_id": "",
+    "parent": [],
+    "my_id": 67,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "b",
+    "all_childs": []
+  },
+  {
+    "childs": [],
+    "text": "All employees should read and follow our company policies. If they have any questions, they should ask their managers or Human Resources (HR) department.",
+    "table_id": "",
+    "parent": [
+      67
+    ],
+    "my_id": 68,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "p",
+    "all_childs": []
+  },
+  {
+    "childs": [
+      70
+    ],
+    "text": "Disciplinary action",
+    "table_id": "",
+    "parent": [],
+    "my_id": 69,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "b",
+    "all_childs": []
+  },
+  {
+    "childs": [],
+    "text": "Our company may have to take disciplinary action against employees who repeatedly or intentionally fail to follow our code of conduct. Disciplinary actions will vary depending on the violation.",
+    "table_id": "",
+    "parent": [
+      69
+    ],
+    "my_id": 70,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "p",
+    "all_childs": []
+  },
+  {
+    "childs": [
+      72,
+      73,
+      74,
+      75
+    ],
+    "text": "Possible consequences include:",
+    "table_id": "",
+    "parent": [],
+    "my_id": 71,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "b",
+    "all_childs": []
+  },
+  {
+    "childs": [],
+    "text": "Failure to comply with the guidelines herein described may result in disciplinary action as follow:",
+    "table_id": "",
+    "parent": [
+      71
+    ],
+    "my_id": 72,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "p",
+    "all_childs": []
+  },
+  {
+    "childs": [],
+    "text": "Demotion Reprimand Suspension or termination for more serious offenses Detraction of benefits for a definite or indefinite time We may take legal action in cases of corruption, theft, embezzlement or other unlawful behaviour.",
+    "table_id": "",
+    "parent": [
+      71
+    ],
+    "my_id": 73,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "p",
+    "all_childs": []
+  },
+  {
+    "childs": [],
+    "text": "E-mail: sales@simplifai.ai Simplifai Cognitive Services Pvt Ltd / CIN: U74999PN2018FTC175269.",
+    "table_id": "",
+    "parent": [
+      71
+    ],
+    "my_id": 74,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "p",
+    "all_childs": []
+  },
+  {
+    "childs": [],
+    "text": "Web: www.simplifai.ai Visiting address: The Pavilion, S.No. 105/1, 4th Floor, Baner, Pune- 411026",
+    "table_id": "",
+    "parent": [
+      71
+    ],
+    "my_id": 75,
+    "doc_name": "2019-11-09_19:58:34.html",
+    "tag_name": "p",
+    "all_childs": []
+  }
+]

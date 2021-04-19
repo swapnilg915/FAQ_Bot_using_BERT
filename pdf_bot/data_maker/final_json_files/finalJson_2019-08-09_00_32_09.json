@@ -1,0 +1,360 @@
+[
+  {
+    "tag_name": "b",
+    "table_id": "",
+    "all_childs": [
+      {
+        "text": "Fakturadato 30.04.2019 Forfallsdato 30.05.2019 Valuta NOK Kundenr. 34925",
+        "tag_name": "p",
+        "all_childs": [],
+        "doc_name": "2019-08-09_00:32:09.html",
+        "table_id": "",
+        "childs": [],
+        "parent": [
+          2
+        ],
+        "my_id": 3
+      }
+    ],
+    "doc_name": "2019-08-09_00:32:09.html",
+    "my_id": 2,
+    "text": "ide 1 av 1",
+    "childs": [
+      3
+    ],
+    "parent": []
+  },
+  {
+    "tag_name": "b",
+    "table_id": "",
+    "all_childs": [
+      {
+        "text": "Org. Nr. NO988023868MVA",
+        "tag_name": "p",
+        "all_childs": [],
+        "doc_name": "2019-08-09_00:32:09.html",
+        "table_id": "",
+        "childs": [],
+        "parent": [
+          4
+        ],
+        "my_id": 5
+      }
+    ],
+    "doc_name": "2019-08-09_00:32:09.html",
+    "my_id": 4,
+    "text": "Nor Tekstil AS",
+    "childs": [
+      5
+    ],
+    "parent": []
+  },
+  {
+    "tag_name": "b",
+    "table_id": "",
+    "all_childs": [
+      {
+        "text": "Avd. \u00c5lesund",
+        "tag_name": "p",
+        "all_childs": [],
+        "doc_name": "2019-08-09_00:32:09.html",
+        "table_id": "",
+        "childs": [],
+        "parent": [
+          7
+        ],
+        "my_id": 8
+      }
+    ],
+    "doc_name": "2019-08-09_00:32:09.html",
+    "my_id": 7,
+    "text": "Foretaksregisteret",
+    "childs": [
+      8
+    ],
+    "parent": []
+  },
+  {
+    "tag_name": "b",
+    "table_id": "",
+    "all_childs": [
+      {
+        "text": "6011 \u00c5LESUND Telefon 415 67 000",
+        "tag_name": "p",
+        "all_childs": [],
+        "doc_name": "2019-08-09_00:32:09.html",
+        "table_id": "",
+        "childs": [],
+        "parent": [
+          10
+        ],
+        "my_id": 11
+      }
+    ],
+    "doc_name": "2019-08-09_00:32:09.html",
+    "my_id": 10,
+    "text": "R\u00f8dsetveien 11 PB 4284 Torgarden 7436 Trondheim",
+    "childs": [
+      11
+    ],
+    "parent": []
+  },
+  {
+    "tag_name": "b",
+    "table_id": "",
+    "all_childs": [
+      {
+        "text": "E-post kundeservice@nortekstil.no",
+        "tag_name": "p",
+        "all_childs": [],
+        "doc_name": "2019-08-09_00:32:09.html",
+        "table_id": "",
+        "childs": [],
+        "parent": [
+          12
+        ],
+        "my_id": 13
+      },
+      {
+        "text": "Web www.nortekstil.no",
+        "tag_name": "p",
+        "all_childs": [],
+        "doc_name": "2019-08-09_00:32:09.html",
+        "table_id": "",
+        "childs": [],
+        "parent": [
+          12
+        ],
+        "my_id": 14
+      }
+    ],
+    "doc_name": "2019-08-09_00:32:09.html",
+    "my_id": 12,
+    "text": "Deres ref. 1012",
+    "childs": [
+      13,
+      14
+    ],
+    "parent": []
+  },
+  {
+    "tag_name": "b",
+    "table_id": "",
+    "all_childs": [
+      {
+        "text": "Forskuddsleie for perioden 01.04.2019 - 30.06.2019 1,00 0,00 0,00 1210 Matte Milj\u00f8 Pluss 115*200 14,00 131,78 1 844,92",
+        "tag_name": "p",
+        "all_childs": [],
+        "doc_name": "2019-08-09_00:32:09.html",
+        "table_id": "",
+        "childs": [],
+        "parent": [
+          16
+        ],
+        "my_id": 17
+      }
+    ],
+    "doc_name": "2019-08-09_00:32:09.html",
+    "my_id": 16,
+    "text": "34925 Kjeldsberg Eiendomsforvaltning AS, Deres ref. 1012 Fastordre matter/mopper",
+    "childs": [
+      17
+    ],
+    "parent": []
+  },
+  {
+    "tag_name": "b",
+    "table_id": "",
+    "all_childs": [
+      {
+        "text": "1 844,92",
+        "tag_name": "p",
+        "all_childs": [],
+        "doc_name": "2019-08-09_00:32:09.html",
+        "table_id": "",
+        "childs": [],
+        "parent": [
+          18
+        ],
+        "my_id": 19
+      }
+    ],
+    "doc_name": "2019-08-09_00:32:09.html",
+    "my_id": 18,
+    "text": "Ordresum eks. mva:",
+    "childs": [
+      19
+    ],
+    "parent": []
+  },
+  {
+    "tag_name": "b",
+    "table_id": "",
+    "all_childs": [
+      {
+        "text": "-0.15",
+        "tag_name": "p",
+        "all_childs": [],
+        "doc_name": "2019-08-09_00:32:09.html",
+        "table_id": "",
+        "childs": [],
+        "parent": [
+          20
+        ],
+        "my_id": 21
+      }
+    ],
+    "doc_name": "2019-08-09_00:32:09.html",
+    "my_id": 20,
+    "text": "Avrunding:",
+    "childs": [
+      21
+    ],
+    "parent": []
+  },
+  {
+    "tag_name": "b",
+    "table_id": "",
+    "all_childs": [
+      {
+        "text": "461.23",
+        "tag_name": "p",
+        "all_childs": [],
+        "doc_name": "2019-08-09_00:32:09.html",
+        "table_id": "",
+        "childs": [],
+        "parent": [
+          22
+        ],
+        "my_id": 23
+      }
+    ],
+    "doc_name": "2019-08-09_00:32:09.html",
+    "my_id": 22,
+    "text": "Mva 25 %:",
+    "childs": [
+      23
+    ],
+    "parent": []
+  },
+  {
+    "tag_name": "b",
+    "table_id": "",
+    "all_childs": [
+      {
+        "text": "2,306.00",
+        "tag_name": "p",
+        "all_childs": [],
+        "doc_name": "2019-08-09_00:32:09.html",
+        "table_id": "",
+        "childs": [],
+        "parent": [
+          24
+        ],
+        "my_id": 25
+      }
+    ],
+    "doc_name": "2019-08-09_00:32:09.html",
+    "my_id": 24,
+    "text": "Sum:",
+    "childs": [
+      25
+    ],
+    "parent": []
+  },
+  {
+    "tag_name": "b",
+    "table_id": "",
+    "all_childs": [
+      {
+        "text": "01.04 / 17655094",
+        "tag_name": "p",
+        "all_childs": [],
+        "doc_name": "2019-08-09_00:32:09.html",
+        "table_id": "",
+        "childs": [],
+        "parent": [
+          26
+        ],
+        "my_id": 27
+      }
+    ],
+    "doc_name": "2019-08-09_00:32:09.html",
+    "my_id": 26,
+    "text": "Dato / F\u00f8lgeseddelnr. / Merket:",
+    "childs": [
+      27
+    ],
+    "parent": []
+  },
+  {
+    "text": "Faktura 2421226",
+    "tag_name": "b",
+    "all_childs": [],
+    "doc_name": "2019-08-09_00:32:09.html",
+    "table_id": "",
+    "childs": [],
+    "parent": [],
+    "my_id": 1
+  },
+  {
+    "text": "Kjeldsberg Eiendomsforvaltning AS",
+    "tag_name": "b",
+    "all_childs": [],
+    "doc_name": "2019-08-09_00:32:09.html",
+    "table_id": "",
+    "childs": [],
+    "parent": [],
+    "my_id": 6
+  },
+  {
+    "text": "Dokkhuset Scene Felles",
+    "tag_name": "b",
+    "all_childs": [],
+    "doc_name": "2019-08-09_00:32:09.html",
+    "table_id": "",
+    "childs": [],
+    "parent": [],
+    "my_id": 9
+  },
+  {
+    "text": "Varenr. Beskrivelse Levert Enhetspris Rabatt Bel\u00f8p",
+    "tag_name": "b",
+    "all_childs": [],
+    "doc_name": "2019-08-09_00:32:09.html",
+    "table_id": "",
+    "childs": [],
+    "parent": [],
+    "my_id": 15
+  },
+  {
+    "text": "KID:",
+    "tag_name": "b",
+    "all_childs": [],
+    "doc_name": "2019-08-09_00:32:09.html",
+    "table_id": "",
+    "childs": [],
+    "parent": [],
+    "my_id": 28
+  },
+  {
+    "text": "421226000349256 Kontonr: 65040574780 Vennligst p\u00e5f\u00f8r KID-nummer ved betaling Bel\u00f8p:",
+    "tag_name": "b",
+    "all_childs": [],
+    "doc_name": "2019-08-09_00:32:09.html",
+    "table_id": "",
+    "childs": [],
+    "parent": [],
+    "my_id": 29
+  },
+  {
+    "text": "306,00",
+    "tag_name": "b",
+    "all_childs": [],
+    "doc_name": "2019-08-09_00:32:09.html",
+    "table_id": "",
+    "childs": [],
+    "parent": [],
+    "my_id": 30
+  }
+]
